@@ -20,7 +20,7 @@ public class Palindrome {
 
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         int p = 4832;
         System.out.println(isPalindrome(p));
 
